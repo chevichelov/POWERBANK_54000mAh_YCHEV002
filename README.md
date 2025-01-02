@@ -3,7 +3,7 @@
 
 <h2 align="center">Видео инструкция</h2>
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=62N_wd2SU_Y"><img src="https://github.com/chevichelov/POWERBANK_54000mAh_YCHEV002/blob/main/MAIN.jpg" alt="Повербанк YCHEV002 54000 mAh на ПАО Энергия">
+  <a href="https://www.youtube.com/watch?v=62N_wd2SU_Y"><img src="https://github.com/chevichelov/POWERBANK_54000mAh_YCHEV002/refs/heads/main/MIAN.jpg" alt="Повербанк YCHEV002 54000 mAh на ПАО Энергия">
   <div>Повербанк YCHEV002 54000 mAh на ПАО Энергия</div>
   </a>
 </div>
